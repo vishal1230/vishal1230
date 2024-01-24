@@ -1,3 +1,4 @@
+![logo](https://github.com/vishal1230/vishal1230/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Vishal yadav</h1>
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="coding" width="300"   src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
