@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source/commercial projects.**
 
-- 📫 Reach me **vishal04032003@gmail.com**
+- 📫 How to reach me **vishal04032003@gmail.com**
 
 - 🧡 Passion **: Cricket**
 
