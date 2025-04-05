@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="coding" width="300"   src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently **a Second year University student.**
+- 🔭 I’m currently **a Third year University student.**
 
 - 🌱 I’m currently learning **Data Structures and Web Dev.**
 
