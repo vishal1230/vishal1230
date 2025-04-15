@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **a Third year University student.**
 
-- 🌱 I’m currently learning **Data Structures and Web Dev.**
+- 🌱 I’m currently learning **Data Structures, Web Dev and Data Science.**
 
 - 👯 I’m looking to collaborate on **open source/commercial projects.**
 
